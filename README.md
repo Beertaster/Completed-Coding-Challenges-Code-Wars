@@ -1,5 +1,4 @@
 # Hello-World
-Brainstorming
 
 5 challenges completed
 
