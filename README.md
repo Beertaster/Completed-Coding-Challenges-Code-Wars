@@ -1,6 +1,6 @@
 # Hello-World
 
-5 challenges completed
+6 challenges completed
 
 
 
